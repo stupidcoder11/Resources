@@ -1,21 +1,36 @@
-### Resources
+# Resources
 
 Resources covering numerous programming and development tech stacks.
 
-## HTML
+# HTML
 
-# VIDEO TUTORIALS
+### VIDEO TUTORIALS
 
-https://www.youtube.com/watch?v=BsDoLVMnmZs - by Code with Harry
+<table>
+  <thead>
+  <th>Channel</th>
+  <th>Link</th>
+  </thead>
+  <tr>
+  <td>Code with Harry</td>
+  <td>https://www.youtube.com/watch?v=BsDoLVMnmZs</td>
+  </tr>
+  <tr>
+  <td>SuperSimpleDev</td>
+  <td>https://www.youtube.com/watch?v=G3e-cpL7ofc</td>
+  </tr>
+</table>
 
-https://www.youtube.com/watch?v=G3e-cpL7ofc - by SuperSimpleDev
 
-# ARTICLES/BLOGS
+### ARTICLES/BLOGS
 
-https://html.com/
+<table>
+<thead><th>Channel</th><th>Link</th></thead>
+<tr><td>HTML</td><td>https://html.com/</td></tr>
+<tr><td>MDN Web Docs</td><td>https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics</td></tr>
+</table>
 
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
-
-# PDF
+### PDF
 
 https://edupdfupload.files.wordpress.com/2021/08/html-css-javascript-pdf.pdf
+
